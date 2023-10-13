@@ -1,8 +1,28 @@
-# Build and Deploy a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS
+
 [![Travel Website](https://i.ibb.co/wrGZhPP/YT-Thumbnails-5.png)](https://youtu.be/cuzw4vL1z5E)
 
 ## Introduction
-If you’ve ever struggled with creating a sleek UI that also performs flawlessly, you're not alone.
+"Welcome to our Travel App Landing Website!
+
+At Explore Mount, we're on a mission to be your trusted companion on every journey you embark upon, whether it's a spontaneous road trip or a meticulously planned global adventure. We understand the sheer joy of witnessing the unspoiled beauty of nature and the thrill of discovering new places, cultures, and experiences.
+
+Our all-in-one travel app is designed to make your wanderlust dreams a reality. With a single app, you can explore the world, from the towering peaks of the Himalayas to the serene beaches of Bali, from the historic streets of Rome to the vibrant markets of Marrakech. We bring the world to your fingertips.
+
+Here's what you can expect from our app:
+
+Seamless Exploration: Our user-friendly interface lets you effortlessly browse destinations, discover travel itineraries, and plan your trips with ease.
+Personalized Travel: Tailor your journeys to your preferences. Whether you're a solo traveler, a family on vacation, or an adventure seeker, our app has something for everyone.
+Comprehensive Information: Access detailed information about destinations, including local attractions, accommodations, dining, and activities.
+Travel Tips: Benefit from insider tips, travel hacks, and recommendations from seasoned travelers.
+Book with Confidence: Our app helps you find the best deals on flights, accommodations, and activities, ensuring you get the most out of your budget.
+Join us on a remarkable adventure as we help you unlock the wonders of the world. With [Your App Name], your travel dreams are just a tap away.
+
+Start your journey today and experience the world like never before. Happy travels!"
+
+
+
+
+User
 
 Your stunning travel will include:
 - An appealing hero section
@@ -22,12 +42,12 @@ While developing the app, you’ll:
 - make use of TypeScript
 - and many more best practices that set you apart in the industry
 
-The only thing you need to follow along? The basics of React.
+## License
+This project is licensed under the MIT License.
 
-So, [watch the video now](https://youtu.be/cuzw4vL1z5E) because we’ll start simple and go through each of these skills step by step with in-depth explanations so you’ll not only learn the fundamentals but be able to create your own amazing Next.js, Tailwind, and TypeScript-powered applications. 
+## Technologys
+ * NEXT 13
+* typescript
+* Tailwindcss
 
-And don't overlook the fact that, by the end of this video, you'll have an impressive project ready to be featured in your portfolio and impress your friends, clients, and even potential employers.
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## make with lust love 💖 by @sameerkali
