@@ -3,7 +3,7 @@ export const NAV_LINKS = [
   { href: "/", key: "home", label: "Home" },
   { href: "/", key: "how_hilink_work", label: "How  Explorer Work?" },
   { href: "/", key: "services", label: "Services" },
-  { href: "/components/Prising.tsx", key: "pricing ", label: "Pricing" },
+  { href: "/app/prising/page.tsx", key: "pricing ", label: "Pricing" },
   { href: "/", key: "contact_us", label: "Contact Us" }
 ];
 
